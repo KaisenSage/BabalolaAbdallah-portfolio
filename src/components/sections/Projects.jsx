@@ -17,7 +17,7 @@ export const Projects = () => {
           <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
             <h3 className="text-xl font-bold mb-2">AI-Powered Meal Plan App</h3>
             <img
-              src="/images/mealplanapp.jpg" // Ensure the path is relative to the `public` folder
+              src="/portfolio/public/images/mealplanapp.jpg" // Ensure the path is relative to the `public` folder
               alt="VirtualR"
               className="w-full h-60 object-contain rounded-lg mb-4" // Styling to ensure the image fits well
             />
@@ -50,7 +50,7 @@ export const Projects = () => {
           <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)] transition-all">
             <h3 className="text-xl font-bold mb-2">VirtualR - VR App Development Tools</h3>
             <img
-              src="/images/virtualr.jpg" // Ensure the path is relative to the `public` folder
+              src="portfolio/public/images/virtualr.jpg" // Ensure the path is relative to the `public` folder
               alt="VirtualR"
               className="w-full h-60 object-contain rounded-lg mb-4" // Styling to ensure the image fits well
             />
