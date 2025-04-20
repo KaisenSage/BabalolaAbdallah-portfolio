@@ -14,7 +14,8 @@ export const Projects = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
           {/* AI-Powered Meal Plan App */}
-          <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+          <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)] transition-all">
+            <h3 className="text-xl font-bold mb-2">AI Powered MealPlan App</h3>
             
             <p className="text-gray-400 mb-4">
               Built a full-stack AI-powered web application that generates personalized weekly meal plans based on user preferences and dietary goals.
@@ -31,7 +32,7 @@ export const Projects = () => {
             </div>
             <div className="flex justify-start items-center">
               <a
-                href="https://github.com/KaisenSage/MealPlanApp" // Example GitHub link
+                href="https://mealplan-zeta.vercel.app" // Example GitHub link
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors my-4"
@@ -96,7 +97,7 @@ export const Projects = () => {
             </div>
             <div className="flex justify-start items-center">
               <a
-                href="https://github.com/KaisenSage/ECommerceApp" // Example GitHub link
+                href="https://ecommercewebsite-wccj.onrender.com/" // Example GitHub link
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors my-4"
