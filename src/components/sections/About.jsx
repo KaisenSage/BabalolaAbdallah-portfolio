@@ -74,11 +74,11 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> B.S.c </strong> - University Of Lagos
+                  <strong> University Of Lagos </strong> 
                 </li>
                 
                 <li>
-                  Relevant Coursework: Data Structures, Web Development, Cloud
+                  <strong>Relevant Coursework:</strong> Data Structures, Web Development, Cloud
                   Computing...
                 </li>
               </ul>
