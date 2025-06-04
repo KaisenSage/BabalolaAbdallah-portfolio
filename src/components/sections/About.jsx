@@ -76,9 +76,7 @@ export const About = () => {
                 <li>
                   <strong> B.S.c </strong> - University Of Lagos
                 </li>
-                <li>
-                <strong>B.S in Computer Science </strong> -WSB Akademia
-                </li>
+                
                 <li>
                   Relevant Coursework: Data Structures, Web Development, Cloud
                   Computing...
