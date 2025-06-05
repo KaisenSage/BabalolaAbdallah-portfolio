@@ -8,7 +8,7 @@ const Footer = () => {
           © {new Date().getFullYear()} Sagecorp. All rights reserved.
         </div>
         <div className="text-xs sm:text-sm text-white/90 mt-2 sm:mt-0">
-          Designed &amp; built by <span className="text-blue-400 font-semibold">Sagecorp</span>
+          Designed &amp; built by <span className="text-blue-400 font-semibold">Sagecorp</span> Development Services
         </div>
       </div>
     </footer>
