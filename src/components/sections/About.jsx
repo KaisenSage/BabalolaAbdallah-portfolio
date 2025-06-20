@@ -74,7 +74,7 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> University Of Lagos </strong> 
+                  <strong> University Of Lagos (2021 - 2025){" "}</strong> 
                 </li>
                 
                 <li>
